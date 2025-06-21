@@ -40,7 +40,7 @@ src/
 # Cài đặt & chạy thử
 
 bash
-git clone https://github.com/yourusername/oop-platform-game.git
+git clone (https://github.com/nnahtuan/ProjectOOP)
 cd oop-platform-game
 # Mở bằng Eclipse / IDE Java bất kỳ và chạy file Main.java
 
