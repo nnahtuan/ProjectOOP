@@ -16,6 +16,7 @@ Dự án xây dựng một trò chơi nhập vai dạng platform sử dụng ng�
 -  Tuỳ chỉnh âm thanh
 -  Lưu / tải trạng thái game
 -  Đã kiểm thử đầy đủ các chức năng cơ bản
+ * Một số tính năng nâng cao đang trong quá trình phát triển và sẽ được cập nhật sau.
 
 # Công nghệ sử dụng
 
@@ -57,3 +58,6 @@ StackOverflow, GitHub & Tài liệu giảng viên cung cấp
 5	Nguyễn Anh Tuấn	20235860	
 6	Đinh Đức Mạnh	20235774	
 7	Nguyễn Sỹ Lộc	20235766
+# Liên hệ 
+Mọi góp ý hoặc câu hỏi liên quan đến dự án, vui lòng liên hệ:
+📧 nguyenanhtuanwork0901@gmail.com
